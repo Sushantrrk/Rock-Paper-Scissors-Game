@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "GilroyRegular";
+    src: local("GilroyRegular"),
+        url("./fonts/SuperPixel-m2L8j.ttf") format("opentype");
+    font-weight: normal;
+}
