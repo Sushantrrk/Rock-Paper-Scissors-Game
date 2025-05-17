@@ -25,7 +25,7 @@ export default function RockPaperScissors() {
     const robotEmotions = {
         "Waiting": [{ emote: normal, text: "Hmmmmm..." }, { emote: normal, text: "Let me show you how it's done!" }, { emote: normal, text: "I will beat you!" }],
         "It's a draw!": [{ emote: normal, text: "Hmm... It's a draw!" }, { emote: normal, text: "Let's try again!" }],
-        "Computer wins!": [{ emote: celebrate, text: "Yay! I won!" }, { emote: normal, text: "Yay! I won!, One more time?" }],
+        "Computer wins!": [{ emote: celebrate, text: "Yay! I won!" }, { emote: normal, text: "Yay! I won!, One more time?" }, { emote: celebrate, text: "Better luck next time" }],
         "You win!": [{ emote: cry, text: "Oh no! You won!" }, { emote: cry, text: "This doesn't count! One more time!" }, { emote: angry, text: "Come on! One more time!" }, { emote: sad, text: "Shoot! One more time!!!!" }, { emote: worried, text: "Let's try again!" }],
     }
 
